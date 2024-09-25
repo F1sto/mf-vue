@@ -34,8 +34,8 @@ nav {
 }
 
 .vue-cli {
-  background: #42b983;
-  border: 2px solid #278359;
+  background: #5cdb6d;
+  border: 2px solid #34a853;
 
   &__title {
     font-size: 50px;
